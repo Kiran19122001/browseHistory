@@ -1,0 +1,42 @@
+.tain-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.time {}
+
+.logo {
+    height: 30px;
+    width: 30px;
+    margin-right: 20px;
+}
+
+.domain {
+    color: #64748b;
+}
+
+.tain-2 {}
+
+.delete {}
+
+.title {
+    margin-right: 20px;
+}
+
+.threeSec {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    height: 60px;
+    width: 700px;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+li{
+    list-style: none;
+}
